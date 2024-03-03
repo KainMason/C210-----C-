@@ -90,4 +90,3 @@ To make the program user-friendly for future developers, I focused on:
 By emphasizing these aspects, I've created not just a functional tool but also a project that's maintainable, readable, and adaptable for future needs.
 
 
-This project is open-source and available under the [MIT License](LICENSE.md).
