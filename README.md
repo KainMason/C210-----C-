@@ -34,6 +34,7 @@ Once the program is running, you'll be presented with the following options:
 - **Unit Testing:** Develop a comprehensive suite of unit tests to ensure accuracy and reliability, especially for edge cases.
 
 ## License
+This project is open-source and available under the [MIT License](LICENSE.md).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
