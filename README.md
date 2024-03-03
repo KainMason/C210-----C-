@@ -38,7 +38,8 @@ Once the program is running, you'll be presented with the following options:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Dual Clock System Project Reflection
+<h2 style="color:red;">Dual Clock System Project Reflection</h2>
+
 
 ## Overview
 
